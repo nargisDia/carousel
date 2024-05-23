@@ -1,0 +1,169 @@
+@media(max-width:767px){
+  .mobile_phone{
+    display:inherit;
+  }
+  .mobile_phone img{
+    width:48%;
+    
+  }
+  .align{
+    align-items:center;
+  }
+  .contact_section p{
+    font-size:14px;
+  }
+  .iphonee{
+    width:100%;
+    margin:auto;
+  }
+  header h5{
+    margin-top:15px;
+  }
+      .phone{
+        display:none;
+      }
+      .height{
+        text-align:center;
+        padding:30px 0;
+      }
+      .toggle_btn{
+        color:#fff;
+        font-size:25px;
+      }
+    .navbar-toggler:focus{
+      box-shadow:none;
+    }
+    .nav-item {
+      padding: 0 15px;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 15px;
+  }
+  .navbar-nav{
+    margin-top:20px;
+  }
+  .features_section p{
+    margin-bottom: 30px;
+  }
+
+  .device_section{
+    padding:30px 0;
+  }
+  .client_info{
+    justify-content:center;
+  }
+  .p{
+    text-align: center;
+  }
+
+  .ad_section{
+    text-align:center;
+  }
+  .contact_section form{
+    width:80%;
+  }
+  .contact_section {
+    padding-bottom:400px;
+  }
+
+}
+
+@media (max-width:575px) {
+        
+  .mobile_phone{
+    display:inherit;
+  }
+  .mobile_phone img{
+    width:48%;
+    
+  }
+  header h5{
+    margin-top:15px;
+  }
+      .phone{
+        display:none;
+      }
+      .height{
+        text-align:center;
+        padding:30px 0;
+      }
+      .toggle_btn{
+        color:#fff;
+        font-size:25px;
+      }
+    .navbar-toggler:focus{
+      box-shadow:none;
+    }
+    .nav-item {
+      padding: 0 15px;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 15px;
+  }
+  .navbar-nav{
+    margin-top:20px;
+  }
+  .features_section p{
+    margin-bottom: 30px;
+  }
+  .iphonee{
+    width:60%;
+    margin:auto;
+  }
+  .device_section{
+    padding:30px 0;
+  }
+  .client_info{
+    justify-content:center;
+  }
+  .p{
+    text-align: center;
+  }
+
+  .ad_section{
+    text-align:center;
+  }
+  .contact_section form{
+    width:80%;
+  }
+  .contact_section {
+    padding-bottom:400px;
+  }
+
+}
+@media(max-width:425px){
+header h1{
+  font-size:35px;
+}
+}
+@media(max-width:375px){
+ header h1{
+  font-size:30px;
+ }
+  header p{
+    font-size:15px;
+  }
+  .btn-download{
+    padding:10px 27px;
+  }
+  .height{
+    margin-top:30px;
+  }
+  .contact_section form{
+    padding:50px 20px;
+  }
+}
+@media(max-width:320px){
+  header h1{
+    font-size:25px;
+  }
+  header p{
+    font-size:14px;
+  }
+  .btn-download{
+    padding:5px 10px;
+  }
+  footer .icon{
+    display:flex;
+  }
+}
